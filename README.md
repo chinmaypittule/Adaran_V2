@@ -121,13 +121,5 @@ Students can ask:
 
 ---
 
-## 📬 Contact
-
-**Chinmay Pittule**  
-📧 chinmaypittule@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/chinmaypittule)
-
----
-
 > Built as part of BUAN 6390 Analytics Practicum @ UT Dallas  
 > Presented by: **Group 3 — Adaran**
